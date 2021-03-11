@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 
+
 std::vector<std::vector<int>> createPyramid() {
 	int x = 0;
 	int r = 1;
